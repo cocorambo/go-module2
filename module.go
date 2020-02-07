@@ -7,6 +7,7 @@ import (
 const (
 	ModuleName = "Go module 2"
 	Var1       = "var1"
+	Var2       = "var2"
 )
 
 func Print() {
