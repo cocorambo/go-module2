@@ -4,7 +4,10 @@ import (
 	"fmt"
 )
 
-const ModuleName = "Go module 2"
+const (
+	ModuleName = "Go module 2"
+	Var1       = "var1"
+)
 
 func Print() {
 	fmt.Println("Hello Go module world")
